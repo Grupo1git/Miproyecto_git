@@ -1,4 +1,9 @@
-
+# Función para división Andres Charry
+def dividir(a, b):
+    if b != 0:
+        return a / b
+    else:
+        raise ValueError("No se puede dividir por cero")
 # Función para multiplicar Adrian Zarate
 def multiplicar(a, b):
     return a * b
