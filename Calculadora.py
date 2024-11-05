@@ -1,3 +1,8 @@
+
+#Función para potenciación Ferney Cerón
+def potenciar(a,b):
+    return a ** b
+  
 # Función para división Andres Charry
 def dividir(a, b):
     if b != 0:
@@ -15,3 +20,4 @@ def restar(a, b):
 # Función para sumar Brandon Lara
 def suma(a, b):
     return a + b
+
