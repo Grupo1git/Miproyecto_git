@@ -1,3 +1,8 @@
+
+# Función para multiplicar Adrian Zarate
+def multiplicar(a, b):
+    return a * b
+  
 # Función para restar Cesar Arteaga
 def restar(a, b):
     return a - b
@@ -5,4 +10,3 @@ def restar(a, b):
 # Función para sumar Brandon Lara
 def suma(a, b):
     return a + b
-
